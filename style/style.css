@@ -126,7 +126,7 @@ body {
 .six .hat {
   position: absolute;
   width: 70px; /* Adjust the size of the hat if needed */
-  top: 50px; /* Adjust this value to move the hat up or down */
+  top: 100px; /* Adjust this value to move the hat up or down */
   left: 70%; /* Center the hat horizontally */
   transform: translateX(-10%); /* Fine-tune horizontal centering */
   z-index: 2; /* Ensure the hat is above the image */
